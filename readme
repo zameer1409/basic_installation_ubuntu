@@ -1,0 +1,30 @@
+
+This file is for installation of list of installations as follows .
+This is for the ubuntu 18.04 version can be used in 32 & 64 bit system
+
+net-tools
+ssh server
+ssh-key generator (public,private key generator for system)
+forticlient
+filezilla
+apache2
+php
+mysql
+phpmyadmin
+
+
+please comment in the installation.sh to avoid particular package by adding # infront of the command.
+Please dont change the order of commands.
+The commands can be used individually on terminal .
+
+Steps to use:
+1) Download the installation.sh file.
+2) Login as sudo user.
+3) Go to the downloaded (installation.sh) path
+4) execute by writing sh installation.sh
+
+Note:
+Once the installation has started each application has interactive commands.
+which requires your input as Y/N  or password. etc...
+
+This helps someone give me thumbs up.
