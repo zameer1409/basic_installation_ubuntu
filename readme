@@ -1,6 +1,7 @@
 
 This file is for installation of list of installations as follows .
-This is for the ubuntu 18.04 version can be used in 32 & 64 bit system
+This is tested on the ubuntu 18.04 version .
+This will be usefull mostly for the PHP Developers. But commands can be reused by different users as per there usage
 
 net-tools
 ssh server
